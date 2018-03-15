@@ -1,0 +1,20 @@
+{
+  "name": "wx-setpage",
+  "version": "1.0.0",
+  "description": "wepy change app.json first page",
+  "scripts": {
+    "test": "setpage"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/keyboard3/setpage"
+    }
+  ],
+  "author": "keyboard3 <keboard3@icloud.com>",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "setpage": "index.js"
+  }
+}
